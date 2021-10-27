@@ -1,7 +1,7 @@
 # Joe Perks - Developer
 
 ## Bio
-Hi, I am a 3rd year Computer Engineering Technology student at Algonquin College
+Hi, I am a 3rd year Computer Engineering Technology student at Algonquin College.
 
 ## Languages
 - C#
@@ -22,9 +22,11 @@ Hi, I am a 3rd year Computer Engineering Technology student at Algonquin College
   - Blob Storage
   - Active Directory
 
-### Links
-[Website](joeperks.dev)
-[Contact Me](mailto:contact@joeperks.dev)
+### Website
+[joeperks.dev](joeperks.dev)
+
+### Email
+[contact@joeperks.dev](mailto:contact@joeperks.dev)
 <!--
 **joepro25/joepro25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
