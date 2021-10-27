@@ -21,6 +21,7 @@ Hi, I am a 3rd year Computer Engineering Technology student at Algonquin College
   - SQL Databases
   - Blob Storage
   - Active Directory
+- Arduino
 
 ### Website
 [joeperks.dev](joeperks.dev)
