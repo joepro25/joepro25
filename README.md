@@ -16,7 +16,10 @@ Hi, I am a 3rd year Computer Engineering Technology student at Algonquin College
 - ASP.NET MVC
 - Entity Framework
 - Microsoft SQL Server
-- Azure Cloud (App Services, SQL Databases, Active Directory)
+- Azure Cloud
+  - App Services
+  - SQL Databases
+  - Active Directory
 
 ### Links
 [Website](joeperks.dev)
